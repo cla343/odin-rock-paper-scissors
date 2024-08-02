@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "odin-rock-paper-scissors",
+			"path": "odin-rock-paper-scissors"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rock-paper-scissors"
+	}
+}
